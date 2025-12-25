@@ -1,2 +1,2 @@
-### PEPRESS
-- A express for PHP developers.
+### PEXPRESS
+- Pexpress is express for PHP developers.
